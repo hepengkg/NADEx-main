@@ -54,4 +54,4 @@ python src/main_NADEx.py --test --pattern_noise_radio 2.5 --dataset GDELT --refi
 
 ## Acknowledge
 
-The code of [DiffuRec](https://github.com/AONE-NLP/DiffuTKG)
+The code of [DiffuTKG](https://github.com/AONE-NLP/DiffuTKG)
